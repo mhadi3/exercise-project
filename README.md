@@ -1,2 +1,4 @@
 # exercise-project
-A collection of my coursework exercises, including uploaded files and a README explaining the project structure.
+# Exercise Project
+This repository contains my solved exercise from the course. 
+It demonstrates basic programming concepts and file structure.
